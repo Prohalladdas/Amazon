@@ -1,0 +1,581 @@
+/* .bg-image::before{
+    width: 50%;
+    background-size: cover;
+    justify-content: center;
+    align-content: center;
+    background-position: center;
+    margin-left: 800px;
+
+} */
+@media only screen and (max-width:50px) {
+    .search input {
+        width: 20px;
+    }
+
+    /* second nav */
+    .nav-menu i {
+        font-size: 5px;
+    }
+
+    .nav-menu p {
+        font-size: 4px;
+    }
+
+    .nav-minitv p {
+        font-size: 4px;
+    }
+
+    .nav-minitv select {
+        font-size: 4px;
+    }
+
+    #amazonlogo1 {
+        height: 50px;
+        width: 80px;
+    }
+
+    .logo p {
+        margin-left: -19px;
+        margin-top: -40px;
+    }
+
+    /* .home-container {
+        width: auto;
+    } */
+}
+
+@media only screen and (min-width:100px) and (max-width:200px) {
+    .search input {
+        width: 30px;
+    }
+
+    /* second nav */
+    #amazonlogo1 {
+        height: 50px;
+        width: 80px;
+    }
+
+    .logo p {
+        margin-left: -19px;
+        margin-top: -40px;
+    }
+
+    .nav-menu i {
+        font-size: 5px;
+    }
+
+    .nav-menu p {
+        font-size: 4px;
+    }
+
+    .nav-minitv p {
+        font-size: 4px;
+    }
+
+    .nav-minitv select {
+        font-size: 4px;
+    }
+
+    /* .home-container {
+        width: auto;
+    } */
+    .end-footer{
+        margin-top: -17px;
+        
+    }
+}
+
+@media only screen and (min-width:200px) and (max-width:530px) {
+    .search input {
+        width: 50px;
+
+    }
+
+    /* second nav */
+    #amazonlogo1 {
+        height: 50px;
+        width: 80px;
+    }
+
+    .logo p {
+        margin-left: -19px;
+        margin-top: -40px;
+    }
+
+    .nav-menu i {
+        font-size: 5px;
+    }
+
+    .nav-menu p {
+        font-size: 4px;
+    }
+
+    .nav-minitv p {
+        font-size: 4px;
+    }
+
+    .nav-minitv select {
+        font-size: 4px;
+    }
+
+    /* .home-container {
+        width: auto;
+    } */
+    .end-footer{
+        margin-top: -34px;
+        
+    }
+}
+
+@media only screen and (min-width:530px) and (max-width:775px) {
+    .search input {
+        width: 120px;
+    }
+
+    .navber {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .location p {
+        font-size: 9px;
+    }
+
+    .flag select {
+        font-size: 10px;
+    }
+
+    .india img {
+        height: 10px;
+        width: 13px;
+    }
+
+    .nav-icon p {
+        font-size: 11px;
+    }
+
+    .nav-sing p {
+        font-size: 9px;
+    }
+
+    .nav-sing label {
+        font-size: 9px;
+    }
+
+    .nav-return p {
+        font-size: 9px;
+    }
+
+    .amazon-cart p {
+        font-size: 9px;
+    }
+
+    .amazon-cart i {
+        font-size: 16px;
+    }
+
+    /* second nav */
+    #amazonlogo1 {
+        height: 50px;
+        width: 80px;
+    }
+
+    .logo p {
+        margin-left: -19px;
+        margin-top: -40px;
+    }
+
+    .nav-menu i {
+        font-size: 8px;
+    }
+
+    .nav-menu p {
+        font-size: 6px;
+    }
+
+    .nav-minitv p {
+        font-size: 6px;
+    }
+
+    .nav-minitv select {
+        font-size: 6px;
+    }
+
+    /* .home-container {
+        width: auto;
+    } */
+    .end-footer{
+        margin-top: -35px;
+        
+    }
+}
+
+@media only screen and (min-width:775px) and (max-width:930px) {
+    .search input {
+        width: 100px;
+    }
+
+    .location p {
+        font-size: 9px;
+    }
+
+    .flag select {
+        font-size: 10px;
+    }
+
+    .india img {
+        height: 10px;
+        width: 13px;
+    }
+
+    .nav-icon p {
+        font-size: 11px;
+    }
+
+    .nav-sing p {
+        font-size: 9px;
+    }
+
+    .nav-sing label {
+        font-size: 9px;
+    }
+
+    .nav-return p {
+        font-size: 9px;
+    }
+
+    .amazon-cart p {
+        font-size: 9px;
+    }
+
+    .amazon-cart i {
+        font-size: 16px;
+    }
+
+    /* second nav */
+    .nav-menu i {
+        font-size: 9px;
+    }
+
+    .nav-menu p {
+        font-size: 7px;
+    }
+
+    .nav-minitv p {
+        font-size: 7px;
+    }
+
+    .nav-minitv select {
+        font-size: 7px;
+    }
+
+    /* .home-container {
+        width: auto;
+    } */
+
+    .end-footer{
+        margin-top: -35px;
+        
+    }
+}
+
+@media only screen and (min-width:930px) and (max-width:1002px) {
+    .search input {
+        width: 180px;
+    }
+
+    .location p {
+        font-size: 11px;
+    }
+
+    .flag select {
+        font-size: 12px;
+    }
+
+    .india img {
+        height: 12px;
+        width: 15px;
+    }
+
+    .nav-icon p {
+        font-size: 13px;
+    }
+
+    .nav-sing p {
+        font-size: 12px;
+    }
+
+    .nav-sing label {
+        font-size: 13px;
+    }
+
+    .nav-return p {
+        font-size: 13px;
+    }
+
+    .amazon-cart p {
+        font-size: 11px;
+    }
+
+    .amazon-cart i {
+        font-size: 21px;
+    }
+
+    /* second nav */
+    .nav-menu i {
+        font-size: 11px;
+    }
+
+    .nav-menu p {
+        font-size: 9px;
+    }
+
+    .nav-minitv p {
+        font-size: 9px;
+    }
+
+    .nav-minitv select {
+        font-size: 9px;
+    }
+
+    /* .home-container {
+        width: auto;
+    } */
+}
+
+@media only screen and (min-width:1002px) and (max-width:1075px) {
+    .search input {
+        width: 250px;
+    }
+
+    .location p {
+        font-size: 11px;
+    }
+
+    .flag select {
+        font-size: 12px;
+    }
+
+    .india img {
+        height: 12px;
+        width: 15px;
+    }
+
+    .nav-icon p {
+        font-size: 13px;
+    }
+
+    .nav-sing p {
+        font-size: 12px;
+    }
+
+    .nav-sing label {
+        font-size: 13px;
+    }
+
+    .nav-return p {
+        font-size: 13px;
+    }
+
+    .amazon-cart p {
+        font-size: 11px;
+    }
+
+    .amazon-cart i {
+        font-size: 21px;
+    }
+
+    /* second nav */
+    .nav-menu i {
+        font-size: 12px;
+    }
+
+    .nav-menu p {
+        font-size: 10px;
+    }
+
+    .nav-minitv p {
+        font-size: 10px;
+    }
+
+    .nav-minitv select {
+        font-size: 10px;
+    }
+
+    /* .home-container {
+        width: auto;
+    } */
+}
+
+@media only screen and (min-width:1075px) and (max-width:1270px) {
+    .search input {
+        width: 350px;
+    }
+
+    .logo p {
+        font-size: 13px;
+    }
+
+    .location p {
+        font-size: 11px;
+    }
+
+    .flag select {
+        font-size: 12px;
+    }
+
+    .india img {
+        height: 12px;
+        width: 15px;
+    }
+
+    .nav-icon p {
+        font-size: 13px;
+    }
+
+    .nav-sing p {
+        font-size: 12px;
+    }
+
+    .nav-sing label {
+        font-size: 13px;
+    }
+
+    .nav-return p {
+        font-size: 13px;
+    }
+
+    .amazon-cart p {
+        font-size: 11px;
+    }
+
+    .amazon-cart i {
+        font-size: 21px;
+    }
+
+    /* second nav */
+    .nav-menu i {
+        font-size: 13px;
+    }
+
+    .nav-menu p {
+        font-size: 11px;
+    }
+
+    .nav-minitv p {
+        font-size: 11px;
+    }
+
+    .nav-minitv select {
+        font-size: 11px;
+    }
+
+    /* .home-container {
+        width: auto;
+    } */
+   
+   
+}
+
+@media only screen and (min-width:1270px) and (max-width:1335px) {
+    .search input {
+        width: 450px;
+    }
+
+    /* 
+    .logo {
+    height: 50px;
+    width: 90px;
+    } */
+
+    .location p {
+        font-size: 11px;
+    }
+
+    .flag select {
+        font-size: 12px;
+    }
+
+    .india img {
+        height: 12px;
+        width: 15px;
+    }
+
+    .nav-icon p {
+        font-size: 13px;
+    }
+
+    .nav-sing p {
+        font-size: 12px;
+    }
+
+    .nav-sing label {
+        font-size: 13px;
+    }
+
+    .nav-return p {
+        font-size: 13px;
+    }
+
+    .amazon-cart p {
+        font-size: 11px;
+    }
+
+    .amazon-cart i {
+        font-size: 21px;
+    }
+
+    /* second nav */
+    .nav-menu i {
+        font-size: 13px;
+    }
+
+    .nav-menu p {
+        font-size: 11px;
+    }
+
+    .nav-minitv p {
+        font-size: 11px;
+    }
+
+    .nav-minitv select {
+        font-size: 11px;
+    }
+
+
+    /* .home-container{
+       width: auto;
+    } */
+}
+
+@media only screen and (min-width:1335px) and (max-width:1530px) {
+    .search input {
+        width: 550px;
+    }
+}
+
+@media only screen and (min-width:1530px) and (max-width:1785px) {
+    .search input {
+        width: 700px;
+    }
+}
+
+@media only screen and (min-width:1785px) and (max-width:2080px) {
+    .search input {
+        width: 1000px;
+    }
+
+}
+
+@media only screen and (min-width:2080px) and (max-width:2404px) {
+    .search input {
+        width: 1300px;
+    }
+}
+
+@media only screen and (min-width:2404px) and (max-width:4550px) {
+    .search input {
+        width: 1630px;
+    }
+
+}
